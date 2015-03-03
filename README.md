@@ -1,2 +1,3 @@
 # HelloWorld
 lty's First GitHub Repository
+studying……
